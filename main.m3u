@@ -25,7 +25,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="jaktv.id" tvg-name="JAKTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/JakTV_Powerd_by_Skuyy_TV.png", JAKTV
-https://cdnjktbpid02.transvision.co.id/live/init/4028c68572841ba301729cd58bce3c14/700/init-stream2
+
 
 #EXTINF:-1 tvg-id="mdtv.id" tvg-name="MDTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MDTV_Powerd_by_Skuyy_TV.png", MDTV
 http://103.46.10.145:9981/stream/channelid/1477399825?ticket=C6F1BC3BCCFC6767849C7DC46F9EA6BF4DA398EE&profile=pass
@@ -38,9 +38,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="moji.id" tvg-name="Moji" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MojiTV_Powerd_by_Skuyy_TV.png", Moji
 
 #EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/RCTI_Powerd_by_Skuyy_TV.png", RCTI R+
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="rajawalitv.id" tvg-name="RTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/RTV_Powerd_by_Skuyy_TV.png", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
@@ -59,6 +59,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
+
 #EXTINF:-1 tvg-id="tvriworld.id" tvg-name="TVRI World" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/TVRI_World_Powerd_by_Skuyy_TV.png", TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
