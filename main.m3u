@@ -6,60 +6,54 @@
 Last Update : 11 November 2025
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ INDONESIA BACKUP ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 #EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/ANTV_Powerd_by_Skuyy_TV.png", ANTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
-http://viptwso.top:8080/VIP01545171425617373/ca75a1a2314d/34328
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/1
+
+
 #EXTINF:-1 tvg-id="daaitv.id" tvg-name="DAAI TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/DaaiTV_Powerd_by_Skuyy_TV.png", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="gtv.id" tvg-name="GTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/GTV_Powerd_by_Skuyy_TV.png", GTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/9
+
 #EXTINF:-1 tvg-id="gtv.id" tvg-name="GTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/GTV_Powerd_by_Skuyy_TV.png", GTV R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-http://viptwso.top:8080/VIP01545171425617373/ca75a1a2314d/34331
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-name="Indosiar" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Indosiar_Powerd_by_Skuyy_TV.png", Indosiar
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+
 #EXTINF:-1 tvg-id="inewstv.id" tvg-name="Inews TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Inews_Powerd_by_Skuyy_TV.png", Inews TV R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
 #EXTINF:-1 tvg-id="jaktv.id" tvg-name="JAKTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/JakTV_Powerd_by_Skuyy_TV.png", JAKTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/15
+https://cdnjktbpid02.transvision.co.id/live/init/4028c68572841ba301729cd58bce3c14/700/init-stream2
+
 #EXTINF:-1 tvg-id="mdtv.id" tvg-name="MDTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MDTV_Powerd_by_Skuyy_TV.png", MDTV
 http://103.46.10.145:9981/stream/channelid/1477399825?ticket=C6F1BC3BCCFC6767849C7DC46F9EA6BF4DA398EE&profile=pass
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/19
-#EXTINF:-1 tvg-id="mnctv.id" tvg-name="MNCTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MNCTV_Powerd_by_Skuyy_TV.png", MNCTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444146
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/22
+
 #EXTINF:-1 tvg-id="mnctv.id" tvg-name="MNCTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MNCTV_Powerd_by_Skuyy_TV.png", MNCTV R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
 #EXTINF:-1 tvg-id="moji.id" tvg-name="Moji" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/MojiTV_Powerd_by_Skuyy_TV.png", Moji
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/23
-#EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/RCTI_Powerd_by_Skuyy_TV.png", RCTI
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444142
-http://viptwso.top:8080/VIP01545171425617373/ca75a1a2314d/34322
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
+
 #EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/RCTI_Powerd_by_Skuyy_TV.png", RCTI R+
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
 #EXTINF:-1 tvg-id="rajawalitv.id" tvg-name="RTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/RTV_Powerd_by_Skuyy_TV.png", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
 #EXTINF:-1 tvg-id="sctv.id" tvg-name="SCTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/SCTV_Powerd_by_Skuyy_TV.png", SCTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444140
-http://103.66.62.83:8000/play/a068/index.m3u8
+
+
 #EXTINF:-1 tvg-id="trans7.id" tvg-name="TRANS 7" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Trans7_Powerd_by_Skuyy_TV.png", TRANS 7
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
+
+
 #EXTINF:-1 tvg-id="transtv.id" tvg-name="TRANS TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/TransTV_Powerd_by_Skuyy_TV.png", TRANS TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444143
+
+
 #EXTINF:-1 tvg-id="tvri.id" tvg-name="TVRI Nasional" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/TVRI_Powerd_by_Skuyy_TV.png", TVRI Nasional
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
