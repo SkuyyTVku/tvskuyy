@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://data.skuyytv.xyz/skuyyepg"
+#EXTM3U x-tvg-url="https://data.skuyytv.xyz/skuyyepg", https://raw.githubusercontent.com/SkuyyTVku/EPG-SKUYYTV/refs/heads/main/skuyyepgtvku.xml" refresh="3600"
+
 #EXTINF:-1 group-title="MAN UTD" tvg-logo="https://i.ibb.co.com/n0ZJT41/Manchester-United-FC-crest-svg-1.png",‌RUBEN AMORIM
 https://g251.turbosplayer.com/file/a4142b18-b820-47c5-9189-b4ee0499cb6b/master.m3u8
 
