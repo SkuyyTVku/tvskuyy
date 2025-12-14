@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTM3U x-tvg-url="https://data.skuyytv.xyz/skuyyepg", https://raw.githubusercontent.com/SkuyyTVku/EPG-SKUYYTV/refs/heads/main/skuyyepgtvku.xml" refresh="3600"
-
+#EXTM3U url-tvg="https://data.skuyytv.xyz/skuyyepg" refresh="3600"
 ■■■■■■■■■■■■■■■■■■■■■
 Last Update : 11 November 2025
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ INDONESIA BACKUP ■■■■■■■■■■■■■■■■■■■■■■■■■■■
