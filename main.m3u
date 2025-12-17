@@ -309,12 +309,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 #EXTINF:-1 tvg-id="dunialain.id" tvg-name="Dunia Lain" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Dunia_Lain_Powerd_by_Skuyy_TV.png", Dunia Lain
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="fashiontv.id" tvg-name="Fashion TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/FashionTV_Powerd_by_Skuyy_TV.png", Fashion TV
-https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="hitsnow.id" tvg-name="Hits Now" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Hits_Now_Powerd_by_Skuyy_TV.png", Hits Now
 
@@ -325,14 +322,25 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 #EXTINF:-1 tvg-id="lifetime.id" tvg-name="Lifetime" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Lifetime_Powerd_by_Skuyy_TV.png", Lifetime
 
 #EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="Rock Entertainmen" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockEntertainment_Powerd_by_Skuyy_TV.png", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
 #EXTINF:-1 tvg-id="one.my" tvg-name="Sony One" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/SonyOne_Powerd_by_Skuyy_TV.png", Sony One
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTINF:-1 tvg-id="tlc.my" tvg-name="TLC" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/TLC_Powerd_by_Skuyy_TV.png", TLC
 
@@ -346,8 +354,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 
 
 #EXTINF:-1 tvg-id="warner.id" tvg-name="Warner TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/WarnerTV_Powerd_by_Skuyy_TV.png", Warner TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
 
 
