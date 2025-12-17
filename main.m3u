@@ -6,6 +6,7 @@
 Last Update : 11 November 2025
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ INDONESIA BACKUP ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 #EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/ANTV_Powerd_by_Skuyy_TV.png", ANTV
+#http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-id="daaitv.id" tvg-name="DAAI TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/DaaiTV_Powerd_by_Skuyy_TV.png", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
