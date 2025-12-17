@@ -3,11 +3,14 @@
 #EXTM3U url-tvg="https://data.skuyytv.xyz/skuyyepg" x-tvg-url="https://data.skuyytv.xyz/skuyyepg"
 
 ■■■■■■■■■■■■■■■■■■■■■
-Last Update : 11 November 2025
+Last Update : 17 DESEMBER 2025
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ INDONESIA BACKUP ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-#EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" group-title="Indonesia" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/ANTV_Powerd_by_Skuyy_TV.png", ANTV
+#EXTINF:-1 tvg-id="antv.id" tvg-name="ANTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/ANTV_Powerd_by_Skuyy_TV.png", ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-id="channeljowo.id" tvg-name="Channel Jowo" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Channel_Jowo_Powerd_by_Skuyy_TV.png", Channel Jowo
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="daaitv.id" tvg-name="DAAI TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/DaaiTV_Powerd_by_Skuyy_TV.png", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -76,3 +79,51 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ Berita ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+#EXTINF:-1 tvg-id="aljazeera.id" tvg-name="Al Jazeera" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/AljazeeraTV_Powerd_by_Skuyy_TV.png", Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg.id" tvg-name="Bloomberg" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Bloomberg%20_Powerd_by_Skuyy_TV.png", Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+
+#EXTINF:-1 tvg-id="btv.id" tvg-name="BTV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/BTV_Powerd_by_Skuyy_TV.png", BTV
+
+#EXTINF:-1 tvg-id="bnchannel.id" tvg-name="BN Channel" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/BN_Channel_Powerd_by_Skuyy_TV.png", BN Channel
+
+#EXTINF:-1 tvg-id="channelnewsasia.id" tvg-name="Channel News Asia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNA_Powerd_by_Skuyy_TV.png", Channel News Asia
+
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="CNBC Indonesia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNBC_Indonesia_Powerd_by_Skuyy_TV.png", CNBC Indonesia
+
+#EXTINF:-1 tvg-id="cnn.id" tvg-name="CNN Indonesia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNN_Indonesia_Powerd_by_Skuyy_TV.png", CNN Indonesia
+
+#EXTINF:-1 tvg-id="cnninternational.id" tvg-name="CNN International" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNN_Internasional_Powerd_by_Skuyy_TV.png", CNN International
+
+#EXTINF:-1 tvg-id="dw.id" tvg-name="DW News" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/DW_News_Powerd_by_Skuyy_TV.png", DW News
+
+#EXTINF:-1 tvg-id="garudatv.id" tvg-name="Garuda TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Garuda_TV_Powerd_by_Skuyy_TV.png", Garuda TV
+
+#EXTINF:-1 tvg-id="inewstv.id" tvg-name="Inews TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Inews_Powerd_by_Skuyy_TV.png", Inews TV
+
+#EXTINF:-1 tvg-id="jawapostv.id" tvg-name="Jawa Pos TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Jawa_Pos_TV_Powerd_by_Skuyy_TV.png", Jawa Pos TV
+
+#EXTINF:-1 tvg-id="kompastv.id" tvg-name="Kompas TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/KompasTV_Powerd_by_Skuyy_TV.png", Kompas TV
+
+#EXTINF:-1 tvg-id="magnachannel.id" tvg-name="Magna Channel" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Magna_Channel_Powerd_by_Skuyy_TV.png", Magna Channel
+
+#EXTINF:-1 tvg-id="metrotv.id" tvg-name="Metro TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/MetroTV_Powerd_by_Skuyy_TV.png", Metro TV
+
+#EXTINF:-1 tvg-id="nusantaratv.id" tvg-name="Nusantara TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Nusantara_TV_Powerd_by_Skuyy_TV.png", Nusantara TV
+
+#EXTINF:-1 tvg-id="nhkworld.id" tvg-name="NHK World Japan" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/NHKWorldJapan_Powerd_by_Skuyy_TV.png", NHK World Japan
+
+#EXTINF:-1 tvg-id="nhkworldpremium.id" tvg-name="NHK World Premium" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/NHKWorldPremium_Powerd_by_Skuyy_TV.png", NHK World Premium
+
+#EXTINF:-1 tvg-id="sinpotv.id" tvg-name="Sinpo TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Sinpo_TV_Powerd_by_Skuyy_TV.png", Sinpo TV
+
+#EXTINF:-1 tvg-id="tvone.id" tvg-name="TVone" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/TVone_Powerd_by_Skuyy_TV.png", TVOne
+
