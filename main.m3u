@@ -72,6 +72,10 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
+#EXTINF:-1 tvg-id="vtv.id" tvg-name="VTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/VTV_Powerd_by_Skuyy_TV.png", VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch107.m3u8
+
 #EXTINF:-1 tvg-id="tvriworld.id" tvg-name="TVRI World" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Sports%20Macan/TVRI_Sport_Powerd_by_Skuyy_TV.png", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
@@ -231,5 +235,50 @@ https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
 https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ Music ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ Knowledge ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="Animal Planet" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Animal_Planet_Powerd_by_Skuyy_TV.png", Animal Planet
+
+
+#EXTINF:-1 tvg-id="asianfoodnetwork.my" tvg-name="Asian Food Network" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Asian_Food_Network_Powerd_by_Skuyy_TV.png", Asian Food Network
+
+
+#EXTINF:-1 tvg-id="bbcearth.id" tvg-name="BBC Earth" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/BBC_Earth_Powerd_by_Skuyy_TV.png", BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="Discovery Asia" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Discovery_Asia_Powerd_by_Skuyy_TV.png", Discovery Asia
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="discoverychannel.id" tvg-name="Discovery Channel" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Discovery_Channel_Powerd_by_Skuyy_TV.png", Discovery Channel
+
+
+#EXTINF:-1 tvg-id="hgtv.my" tvg-name="HGTV" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/HGTV_Powerd_by_Skuyy_TV.png", HGTV
+
+
+#EXTINF:-1 tvg-id="history.id" tvg-name="History" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/History_Powerd_by_Skuyy_TV.png", History
+
+
+#EXTINF:-1 tvg-id="lovenature.id" tvg-name="Love Nature" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Love_Nature_Powerd_by_Skuyy_TV.png", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTINF:-1 tvg-id="outdoor.id" tvg-name="Outdoor" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Outdoor_Powerd_by_Skuyy_TV.png", Outdoor
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
 
