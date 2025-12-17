@@ -185,38 +185,51 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 #EXTINF:-1 tvg-id="cartoonito.id" tvg-name="Cartoonito.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Cartoonito_Powerd_by_Skuyy_TV.png", Cartoonito
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
 
 #EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (ENG)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
 #EXTINF:-1 tvg-id="davincilearning.SKUYYTV" tvg-name="Da Vinci.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Davinci_Powerd_by_Skuyy_TV.png", Da Vinci
-https://delivery.skuyytv.xyz/stream/davinci/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks (ENG)
-https://delivery.skuyytv.xyz/stream/dreamworks_en/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks (IDN).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks (IDN)
-https://delivery.skuyytv.xyz/stream/dreamworks_id/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="duniaanak.SKUYYTV" tvg-name="Dunia Anak.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DuniaAnak_Powerd_by_Skuyy_TV.png", Dunia Anak
-https://delivery.skuyytv.xyz/stream/duniaanak/playlist.m3u8?token=hs4oz&v=20200807
+
+
+#EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:-1 tvg-id="funplanet.id" tvg-name="FunPlanet.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/FunPlanet_Powerd_by_Skuyy_TV.png", Fun Planet
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
 #EXTINF:-1 tvg-id="horee.SKUYYTV" tvg-name="Horee.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Horee!_Powerd_by_Skuyy_TV.png", Horee
-https://delivery.skuyytv.xyz/stream/horee/playlist.m3u8?token=hs4oz&v=20200807
+
+#EXTINF:-1 tvg-id="kidstv.id" tvg-name="KidsTV.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/KidsTv_Powerd_by_Skuyy_TV.png", Kids TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
 #EXTINF:-1 tvg-id="mentaritv.SKUYYTV" tvg-name="Mentari TV.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/MentariTV_Powerd_by_Skuyy_TV.png", Mentari TV
-https://delivery.skuyytv.xyz/stream/mentaritv/playlist.m3u8?token=hs4oz&v=20200807
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=8237
+#http://103.226.232.199:9003/play/a05a/index.m3u8
+
 #EXTINF:-1 tvg-id="moonbug.SKUYYTV" tvg-name="Moonbug.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Moonbug_Powerd_by_Skuyy_TV.png", Moonbug
-https://delivery.skuyytv.xyz/stream/moonbug/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="nickelodeon.SKUYYTV" tvg-name="Nickelodeon (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Nickelodeon_Powerd_by_Skuyy_TV.png", Nickelodeon (ENG)
-https://delivery.skuyytv.xyz/stream/nickelodeon_en/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="nickelodeon.SKUYYTV" tvg-name="Nickelodeon (IDN).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Nickelodeon_Powerd_by_Skuyy_TV.png", Nickelodeon (IDN)
-https://delivery.skuyytv.xyz/stream/nickelodeon_id/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="nickjunior.SKUYYTV" tvg-name="Nick Jr (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/NickJR_Powerd_by_Skuyy_TV.png", Nick Jr (ENG)
-https://delivery.skuyytv.xyz/stream/nickjr_en/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="nickjunior.SKUYYTV" tvg-name="Nick Jr (IDN).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/NickJR_Powerd_by_Skuyy_TV.png", Nick Jr (IDN)
-https://delivery.skuyytv.xyz/stream/nickjr_id/playlist.m3u8?token=hs4oz&v=20200807
+
+#EXTINF:-1 tvg-id="nickelodeon.id" tvg-name="Nickelodeon.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Nickelodeon_Powerd_by_Skuyy_TV.png", Nickelodeon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
+https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="nickjunior.id" tvg-name="NickJr.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/NickJR_Powerd_by_Skuyy_TV.png", Nick Jr
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+
 
 
