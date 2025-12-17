@@ -27,11 +27,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="indosiar.id" tvg-name="Indosiar" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Indosiar_Powerd_by_Skuyy_TV.png", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="inewstv.id" tvg-name="Inews TV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Inews_Powerd_by_Skuyy_TV.png", Inews TV R+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
 #EXTINF:-1 tvg-id="jaktv.id" tvg-name="JAKTV" group-title="INDONESIA BACKUP" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/JakTV_Powerd_by_Skuyy_TV.png", JAKTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -93,30 +88,54 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 
 #EXTINF:-1 tvg-id="btv.id" tvg-name="BTV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/BTV_Powerd_by_Skuyy_TV.png", BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="bnchannel.id" tvg-name="BN Channel" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/BN_Channel_Powerd_by_Skuyy_TV.png", BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
 
 #EXTINF:-1 tvg-id="channelnewsasia.id" tvg-name="Channel News Asia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNA_Powerd_by_Skuyy_TV.png", Channel News Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="cnbc.id" tvg-name="CNBC Indonesia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNBC_Indonesia_Powerd_by_Skuyy_TV.png", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn.id" tvg-name="CNN Indonesia" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNN_Indonesia_Powerd_by_Skuyy_TV.png", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="cnninternational.id" tvg-name="CNN International" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/CNN_Internasional_Powerd_by_Skuyy_TV.png", CNN International
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #EXTINF:-1 tvg-id="dw.id" tvg-name="DW News" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/DW_News_Powerd_by_Skuyy_TV.png", DW News
 
 #EXTINF:-1 tvg-id="garudatv.id" tvg-name="Garuda TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Garuda_TV_Powerd_by_Skuyy_TV.png", Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 #EXTINF:-1 tvg-id="inewstv.id" tvg-name="Inews TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Inews_Powerd_by_Skuyy_TV.png", Inews TV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="jawapostv.id" tvg-name="Jawa Pos TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Jawa_Pos_TV_Powerd_by_Skuyy_TV.png", Jawa Pos TV
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-name="Kompas TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/KompasTV_Powerd_by_Skuyy_TV.png", Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="magnachannel.id" tvg-name="Magna Channel" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Magna_Channel_Powerd_by_Skuyy_TV.png", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="metrotv.id" tvg-name="Metro TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/MetroTV_Powerd_by_Skuyy_TV.png", Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #EXTINF:-1 tvg-id="nusantaratv.id" tvg-name="Nusantara TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Nusantara_TV_Powerd_by_Skuyy_TV.png", Nusantara TV
 
