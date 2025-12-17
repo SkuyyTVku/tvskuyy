@@ -256,7 +256,12 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-id="asianfoodnetwork.my" tvg-name="Asian Food Network" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/Asian_Food_Network_Powerd_by_Skuyy_TV.png", Asian Food Network
-
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network 
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTINF:-1 tvg-id="bbcearth.id" tvg-name="BBC Earth" group-title="Knowledge" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Knowledge/BBC_Earth_Powerd_by_Skuyy_TV.png", BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -377,6 +382,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #EXTINF:-1 tvg-id="fashiontv.id" tvg-name="Fashion TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/FashionTV_Powerd_by_Skuyy_TV.png", Fashion TV
 
 #EXTINF:-1 tvg-id="hitsnow.id" tvg-name="Hits Now" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Hits_Now_Powerd_by_Skuyy_TV.png", Hits Now
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-id="kplus.my" tvg-name="K+" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KPlus_Powerd_by_Skuyy_TV.png", K+
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
@@ -384,8 +394,20 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 tvg-id="kbsworld.my" tvg-name="KBS World" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KBSWolrd_Powerd_by_Skuyy_TV.png", KBS World
 
 #EXTINF:-1 tvg-id="lifetime.id" tvg-name="Lifetime" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Lifetime_Powerd_by_Skuyy_TV.png", Lifetime
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
-#EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action
+#EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action V
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
+
+#EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action V+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -393,6 +415,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="Rock Entertainmen" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockEntertainment_Powerd_by_Skuyy_TV.png", Rock Entertainment
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="Rock Entertainmen" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockEntertainment_Powerd_by_Skuyy_TV.png", Rock Entertainment V+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -407,7 +437,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTINF:-1 tvg-id="tlc.my" tvg-name="TLC" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/TLC_Powerd_by_Skuyy_TV.png", TLC
-
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTINF:-1 tvg-id="tvn.id" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/tvN_Powerd_by_Skuyy_TV.png", tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -416,8 +451,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
-
 #EXTINF:-1 tvg-id="warner.id" tvg-name="Warner TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/WarnerTV_Powerd_by_Skuyy_TV.png", Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ Movies ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
