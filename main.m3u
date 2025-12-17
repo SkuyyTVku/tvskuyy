@@ -223,6 +223,12 @@ https://popmi.my.id/tes.m3u8?id=8237
 #http://103.226.232.199:9003/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="moonbug.SKUYYTV" tvg-name="Moonbug.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Moonbug_Powerd_by_Skuyy_TV.png", Moonbug
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
 #EXTINF:-1 tvg-id="nickelodeon.id" tvg-name="Nickelodeon.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Nickelodeon_Powerd_by_Skuyy_TV.png", Nickelodeon
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -290,36 +296,58 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="chinesedrama.id" tvg-name="Chinese Drama" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Chinese_Drama_Powerd_by_Skuyy_TV.png", Chinese Drama
-https://delivery.skuyytv.xyz/stream/chinesedrama/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="citradangdut.id" tvg-name="Citra Dangdut" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Citra_Dangdut_Powerd_by_Skuyy_TV.png", Citra Dangdut
-https://delivery.skuyytv.xyz/stream/citra_dangdut/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="citradrama.id" tvg-name="Citra Drama" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Citra_Drama_Powerd_by_Skuyy_TV.png", Citra Drama
-https://delivery.skuyytv.xyz/stream/citra_drama/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="Crime Investigation" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Crime_Investigation_Powerd_by_Skuyy_TV.png", Crime Investigation
-https://delivery.skuyytv.xyz/stream/crimeinvestigation/playlist.m3u8?token=f8n78&v=20200807
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
 #EXTINF:-1 tvg-id="dunialain.id" tvg-name="Dunia Lain" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Dunia_Lain_Powerd_by_Skuyy_TV.png", Dunia Lain
-https://delivery.skuyytv.xyz/stream/dunialain/playlist.m3u8?token=f8n78&v=20200807
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
 #EXTINF:-1 tvg-id="fashiontv.id" tvg-name="Fashion TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/FashionTV_Powerd_by_Skuyy_TV.png", Fashion TV
-https://delivery.skuyytv.xyz/stream/fashiontv/playlist.m3u8?token=f8n78&v=20200807
+https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+
 #EXTINF:-1 tvg-id="hitsnow.id" tvg-name="Hits Now" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Hits_Now_Powerd_by_Skuyy_TV.png", Hits Now
-https://delivery.skuyytv.xyz/stream/hits_now/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="kplus.my" tvg-name="K+" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KPlus_Powerd_by_Skuyy_TV.png", K+
-https://delivery.skuyytv.xyz/stream/kplus/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="kbsworld.my" tvg-name="KBS World" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KBSWolrd_Powerd_by_Skuyy_TV.png", KBS World
-https://delivery.skuyytv.xyz/stream/kbs_world/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="lifetime.id" tvg-name="Lifetime" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Lifetime_Powerd_by_Skuyy_TV.png", Lifetime
-https://delivery.skuyytv.xyz/stream/lifetime/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action
-https://delivery.skuyytv.xyz/stream/blue_ant_extreme/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="Rock Entertainmen" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockEntertainment_Powerd_by_Skuyy_TV.png", Rock Entertainment
-https://delivery.skuyytv.xyz/stream/blue_ant_entertainment/playlist.m3u8?token=f8n78&v=20200807
+
 #EXTINF:-1 tvg-id="one.my" tvg-name="Sony One" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/SonyOne_Powerd_by_Skuyy_TV.png", Sony One
-https://delivery.skuyytv.xyz/stream/sonyone/playlist.m3u8?token=f8n78&v=20200807
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
 #EXTINF:-1 tvg-id="tlc.my" tvg-name="TLC" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/TLC_Powerd_by_Skuyy_TV.png", TLC
-https://delivery.skuyytv.xyz/stream/tlc/playlist.m3u8?token=f8n78&v=20200807
+
+
 #EXTINF:-1 tvg-id="tvn.id" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/tvN_Powerd_by_Skuyy_TV.png", tvN
-https://delivery.skuyytv.xyz/stream/id_tvn/playlist.m3u8?token=f8n78&v=20200807
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+
 #EXTINF:-1 tvg-id="warner.id" tvg-name="Warner TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/WarnerTV_Powerd_by_Skuyy_TV.png", Warner TV
-https://delivery.skuyytv.xyz/stream/warnertv/playlist.m3u8?token=f8n78&v=20200807
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
 
