@@ -132,18 +132,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="metrotv.id" tvg-name="Metro TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/MetroTV_Powerd_by_Skuyy_TV.png", Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #EXTINF:-1 tvg-id="nusantaratv.id" tvg-name="Nusantara TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/LokalFTA/Nusantara_TV_Powerd_by_Skuyy_TV.png", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld.id" tvg-name="NHK World Japan" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/NHKWorldJapan_Powerd_by_Skuyy_TV.png", NHK World Japan
-
-#EXTINF:-1 tvg-id="nhkworldpremium.id" tvg-name="NHK World Premium" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/NHKWorldPremium_Powerd_by_Skuyy_TV.png", NHK World Premium
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN
 
 #EXTINF:-1 tvg-id="sinpotv.id" tvg-name="Sinpo TV" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/Sinpo_TV_Powerd_by_Skuyy_TV.png", Sinpo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 #EXTINF:-1 tvg-id="tvone.id" tvg-name="TVone" group-title="Berita" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Berita/TVone_Powerd_by_Skuyy_TV.png", TVOne
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
