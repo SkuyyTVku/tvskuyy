@@ -191,12 +191,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 #EXTINF:-1 tvg-id="cartoonito.id" tvg-name="Cartoonito.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Cartoonito_Powerd_by_Skuyy_TV.png", Cartoonito
 
 
-#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (ENG)
-
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-id="davincilearning.SKUYYTV" tvg-name="Da Vinci.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Davinci_Powerd_by_Skuyy_TV.png", Da Vinci
 
-
-#EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks
+#EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -281,4 +282,44 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ Entertainment ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+#EXTINF:-1 tvg-id="arirang.id" tvg-name="Arirang" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Arirang_Powerd_by_Skuyy_TV.png", Arirang
+
+#EXTINF:-1 tvg-id="axn.id" tvg-name="AXN" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/AXN_Powerd_by_Skuyy_TV.png", AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="chinesedrama.id" tvg-name="Chinese Drama" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Chinese_Drama_Powerd_by_Skuyy_TV.png", Chinese Drama
+https://delivery.skuyytv.xyz/stream/chinesedrama/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="Citra Dangdut" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Citra_Dangdut_Powerd_by_Skuyy_TV.png", Citra Dangdut
+https://delivery.skuyytv.xyz/stream/citra_dangdut/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="citradrama.id" tvg-name="Citra Drama" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Citra_Drama_Powerd_by_Skuyy_TV.png", Citra Drama
+https://delivery.skuyytv.xyz/stream/citra_drama/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="crimeinvestigation.id" tvg-name="Crime Investigation" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Crime_Investigation_Powerd_by_Skuyy_TV.png", Crime Investigation
+https://delivery.skuyytv.xyz/stream/crimeinvestigation/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="dunialain.id" tvg-name="Dunia Lain" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Dunia_Lain_Powerd_by_Skuyy_TV.png", Dunia Lain
+https://delivery.skuyytv.xyz/stream/dunialain/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="fashiontv.id" tvg-name="Fashion TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/FashionTV_Powerd_by_Skuyy_TV.png", Fashion TV
+https://delivery.skuyytv.xyz/stream/fashiontv/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="hitsnow.id" tvg-name="Hits Now" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Hits_Now_Powerd_by_Skuyy_TV.png", Hits Now
+https://delivery.skuyytv.xyz/stream/hits_now/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="kplus.my" tvg-name="K+" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KPlus_Powerd_by_Skuyy_TV.png", K+
+https://delivery.skuyytv.xyz/stream/kplus/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="KBS World" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/KBSWolrd_Powerd_by_Skuyy_TV.png", KBS World
+https://delivery.skuyytv.xyz/stream/kbs_world/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="lifetime.id" tvg-name="Lifetime" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/Lifetime_Powerd_by_Skuyy_TV.png", Lifetime
+https://delivery.skuyytv.xyz/stream/lifetime/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="rockaction.id" tvg-name="Rock Action" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockAction_Powerd_by_Skuyy_TV.png", Rock Action
+https://delivery.skuyytv.xyz/stream/blue_ant_extreme/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="Rock Entertainmen" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/RockEntertainment_Powerd_by_Skuyy_TV.png", Rock Entertainment
+https://delivery.skuyytv.xyz/stream/blue_ant_entertainment/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="one.my" tvg-name="Sony One" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/SonyOne_Powerd_by_Skuyy_TV.png", Sony One
+https://delivery.skuyytv.xyz/stream/sonyone/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="tlc.my" tvg-name="TLC" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/TLC_Powerd_by_Skuyy_TV.png", TLC
+https://delivery.skuyytv.xyz/stream/tlc/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="tvn.id" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/tvN_Powerd_by_Skuyy_TV.png", tvN
+https://delivery.skuyytv.xyz/stream/id_tvn/playlist.m3u8?token=f8n78&v=20200807
+#EXTINF:-1 tvg-id="warner.id" tvg-name="Warner TV" group-title="Entertainment" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Entertainment/WarnerTV_Powerd_by_Skuyy_TV.png", Warner TV
+https://delivery.skuyytv.xyz/stream/warnertv/playlist.m3u8?token=f8n78&v=20200807
 
