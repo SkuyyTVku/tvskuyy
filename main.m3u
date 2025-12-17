@@ -157,30 +157,45 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ Religion ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-#EXTINF:-1 tvg-id="alqurankareem.SKUYYTV" tvg-name="Al Quran Al Kareem TV.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/AlQuranAlKareem_TV_Powerd_by_Skuyy_TV.png", Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="alqurankareem.id" tvg-name="Al Quran Al Kareem TV.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/AlQuranAlKareem_TV_Powerd_by_Skuyy_TV.png", Al Quran Al Kareem TV
 https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_source/hdntl=exp=1766034250~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=91a7b7e570ccf2c51d43c764676f9f0a0f8112f4ce98115242892ec8395529cc/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-id="rodjatv.SKUYYTV" tvg-name="Rodja TV.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/RodjaTV_Powerd_by_Skuyy_TV.png", Rodja TV
+#EXTINF:-1 tvg-id="rodjatv.id" tvg-name="Rodja TV.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/RodjaTV_Powerd_by_Skuyy_TV.png", Rodja TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 
-#EXTINF:-1 tvg-id="muhammadiyahtv.SKUYYTV" tvg-name="TV MU.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/TVMU_Powerd_by_Skuyy_TV.png", TV MU
+#EXTINF:-1 tvg-id="muhammadiyahtv.id" tvg-name="TV MU.SKUYYTV" group-title="Religion" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Religion/TVMU_Powerd_by_Skuyy_TV.png", TV MU
 https://e.siar.us/live/tvmu.m3u8
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ Kids ■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-#EXTINF:-1 tvg-id="animax.SKUYYTV" tvg-name="Animax.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Animax_Powerd_by_Skuyy_TV.png", Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="animax.id" tvg-name="Animax.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Animax_Powerd_by_Skuyy_TV.png", Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 tvg-id="aniplus.SKUYYTV" tvg-name="Aniplus.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Aniplus_Powerd_by_Skuyy_TV.png", Aniplus
-https://delivery.skuyytv.xyz/stream/id_aniplus/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="cartoonito.SKUYYTV" tvg-name="Cartoonito.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Cartoonito_Powerd_by_Skuyy_TV.png", Cartoonito
-https://delivery.skuyytv.xyz/stream/boomerang/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="cartoonnetwork.SKUYYTV" tvg-name="Cartoon Network (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (ENG)
-https://delivery.skuyytv.xyz/stream/cartoonnetwork_en/playlist.m3u8?token=hs4oz&v=20200807
-#EXTINF:-1 tvg-id="cartoonnetwork.SKUYYTV" tvg-name="Cartoon Network (IDN).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (IDN)
-https://delivery.skuyytv.xyz/stream/cartoonnetwork_id/playlist.m3u8?token=hs4oz&v=20200807
+#EXTINF:-1 tvg-id="aniplus.id" tvg-name="Aniplus.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Aniplus_Powerd_by_Skuyy_TV.png", Aniplus
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
+
+#EXTINF:-1 tvg-id="cartoonito.id" tvg-name="Cartoonito.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Cartoonito_Powerd_by_Skuyy_TV.png", Cartoonito
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/CartoonNetwork_Powerd_by_Skuyy_TV.png", Cartoon Network (ENG)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+
 #EXTINF:-1 tvg-id="davincilearning.SKUYYTV" tvg-name="Da Vinci.SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/Davinci_Powerd_by_Skuyy_TV.png", Da Vinci
 https://delivery.skuyytv.xyz/stream/davinci/playlist.m3u8?token=hs4oz&v=20200807
 #EXTINF:-1 tvg-id="dreamworks.SKUYYTV" tvg-name="Dreamworks (ENG).SKUYYTV" group-title="Kids" tvg-logo="https://doc.skuyytv.xyz/1:/NewLogo/Kids/DreamWorks_Powerd_by_Skuyy_TV.png", Dreamworks (ENG)
